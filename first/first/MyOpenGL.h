@@ -1,0 +1,13 @@
+#pragma once
+#include <GLFW/glfw3.h>
+#include <GL/glew.h>
+#include <glm.hpp>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <string.h>
+#include <sstream>
+#include <gtc/matrix_transform.hpp>
+#include <gtc/matrix_access.hpp>
+#include <gtc/type_ptr.hpp>
